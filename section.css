@@ -11,7 +11,7 @@ html* {
     width: 100%;
     /* padding: 50px; */
     height: 400px;
-    background-image: url(../assets/img/header/hero-home.jpg);
+    background-image: url(./assets/img/header/hero-home.jpg);
     background-size: cover;
     filter: brightness(50%);
     display: flex;
