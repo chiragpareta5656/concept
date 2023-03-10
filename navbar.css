@@ -52,20 +52,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-.container {
-    display: block;
-    /* background-color: deeppink; */
-    float: right;
-    height: 25px;
-    width: 40px;
-    /* margin-top: 20px; */
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    cursor: pointer;
-    padding: 20px;
-}
+
 
 
 
